@@ -20,6 +20,7 @@ MIT License
 
 # Citation
 If this data set is used in a publication, please cite:
+``` bash
 @dataset{swati_2020_3953878,
   author       = {Swati and
                   Tomaž Erjavec and
