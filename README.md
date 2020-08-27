@@ -21,17 +21,15 @@ MIT License
 # Citation
 If this data set is used in a publication, please cite:
 ``` bash
-@dataset{swati_2020_3953878,
-  author       = {Swati and
+@dataset{
+  author       = {Abdul Sittar and
                   Tomaž Erjavec and
                   Dunja Mladenić},
-  title        = {{EveOut: Reproducible Event Dataset for Studying 
-                   and Analyzing the Complex Event-Outlet
-                   Relationship}},
-  month        = aug,
+  title        = {{A Data set for Information Spreading over the News}},
+  month        = July,
   year         = 2020,
   publisher    = {Zenodo},
   version      = {version 1.0.0},
-  doi          = {10.5281/zenodo.3953878},
-  url          = {https://doi.org/10.5281/zenodo.3953878}
+  doi          = {10.5281/zenodo.3950065},
+  url          = {https://doi.org/10.5281/zenodo.3950065}
 }
