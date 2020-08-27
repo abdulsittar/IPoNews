@@ -14,3 +14,23 @@ No     Domain               Event Type         Articles Per Language            
  2     Natural Disaster     Earthquake         941-en, 999-sp, 937-de, 19-sl, 251-pt      3147 
 
  3     Climate Changes      Global Warming     996-en, 298-sp, 545-de, 8-sl, 97-pt        1945
+
+# License
+MIT License
+
+# Citation
+If this data set is used in a publication, please cite:
+@dataset{swati_2020_3953878,
+  author       = {Swati and
+                  Tomaž Erjavec and
+                  Dunja Mladenić},
+  title        = {{EveOut: Reproducible Event Dataset for Studying 
+                   and Analyzing the Complex Event-Outlet
+                   Relationship}},
+  month        = aug,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {version 1.0.0},
+  doi          = {10.5281/zenodo.3953878},
+  url          = {https://doi.org/10.5281/zenodo.3953878}
+}
