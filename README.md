@@ -1,7 +1,7 @@
-# IPoNews
+# IPoverNews
 A Data set for Information Spreading over the News
 # Introduction
-omain-specific gaps in information spreading are ubiquitous and may exist due to economic conditions, political factors, or linguistic, geographical, time-zone, cultural, and other barriers. These factors potentially contribute to obstructing the flow of local as well as international news. We believe that there is a lack of research studies that examine, identify, and uncover the reasons for barriers in information spreading. Additionally, there is limited availability of datasets containing news text and metadata including time, place, source, and other relevant information. When a piece of information starts spreading, it implicitly raises questions such as as
+Domain-specific gaps in information spreading are ubiquitous and may exist due to economic conditions, political factors, or linguistic, geographical, time-zone, cultural, and other barriers. These factors potentially contribute to obstructing the flow of local as well as international news. We believe that there is a lack of research studies that examine, identify, and uncover the reasons for barriers in information spreading. Additionally, there is limited availability of datasets containing news text and metadata including time, place, source, and other relevant information. When a piece of information starts spreading, it implicitly raises questions such as as
 - How far does the information in the form of news reach out to the public?
 - Does the content of news remain the same or changes to a certain extent?
 - Do the cultural values impact the information especially when the same news will get translated in other languages?
