@@ -7,10 +7,10 @@ Domain-specific gaps in information spreading are ubiquitous and may exist due t
 - Do the cultural values impact the information especially when the same news will get translated in other languages?
 
 # Statistics about datasets
-No     Domain                     Event Type              Articles Per Language                               Total Articles
+No     Domain               Event Type         Articles Per Language                      Total Articles
 
-1     Sports                       FIFA World Cup      983-en, 762-sp, 711-de, 10-sl, 216-pt        2679
+ 1     Sports               FIFA World Cup     983-en, 762-sp, 711-de, 10-sl, 216-pt      2679
 
-2     Natural Disaster        Earthquake            941-en, 999-sp, 937-de, 19-sl, 251-pt        3147
+ 2     Natural Disaster     Earthquake         941-en, 999-sp, 937-de, 19-sl, 251-pt      3147 
 
-3     Climate Changes     Global Warming    996-en, 298-sp, 545-de, 8-sl, 97-pt              1945
+ 3     Climate Changes      Global Warming     996-en, 298-sp, 545-de, 8-sl, 97-pt        1945
