@@ -15,6 +15,9 @@ No     Domain               Event Type         Articles Per Language            
 
  3     Climate Changes      Global Warming     996-en, 298-sp, 545-de, 8-sl, 97-pt        1945
 
+# Due to the size of the dataset, it is hosted on Zenodo and is available at:
+https://zenodo.org/record/3950065
+
 # License
 MIT License
 
